@@ -1,0 +1,17 @@
+.medical-container {
+  margin: 4rem 6rem;
+  text-align: start;
+}
+
+.medical-container h2 {
+  padding-bottom: 1rem;
+}
+.medical-container p {
+  padding-bottom: 2rem;
+}
+
+@media screen and (max-width: 850px) {
+  .medical-container {
+    margin: 4rem 2rem;
+  }
+}
